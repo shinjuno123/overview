@@ -1,4 +1,4 @@
-# 🧑: Introduction
+# 🧑 Introduction
 Hi! I'm a passsionate developer from South Korea. I'm working hard on learning c# programming lately. :)
 # 🎄 Algorithm
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shinjuno123?theme=dark&font=Noto%20Sans%20Sora%20Sompeng&ext=activity)
