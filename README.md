@@ -5,8 +5,8 @@ Hi! I'm a passsionate developer from South Korea. I'm studying hard on learning 
 # 🏫 School
 |School Name|Degree|Period|Status|
 |-----------|-----|--------|------|
-|Konyang University|Bachelor of Science in Computer Engineering|2017 ~ 2022|Graduated|
-|Asan High School|None|2014 ~ 2016|Graduated|
+|Konyang University|Bachelor of Science in Computer Engineering|2017 ~ 2023|Graduated|
+|Asan High School|None|2014 ~ 2017|Graduated|
 
 # 📱 Contact
 📧 [shinjuno123@gmail.com](mailto:shinjuno123@gmail.com)
